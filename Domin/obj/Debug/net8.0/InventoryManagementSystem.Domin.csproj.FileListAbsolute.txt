@@ -1,0 +1,12 @@
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\bin\Debug\net8.0\InventoryManagementSystem.Domin.deps.json
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\bin\Debug\net8.0\InventoryManagementSystem.Domin.dll
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\bin\Debug\net8.0\InventoryManagementSystem.Domin.pdb
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\InventoryManagementSystem.Domin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\InventoryManagementSystem.Domin.AssemblyInfoInputs.cache
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\InventoryManagementSystem.Domin.AssemblyInfo.cs
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\InventoryManagementSystem.Domin.csproj.CoreCompileInputs.cache
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\InventoryManagementSystem.Domin.sourcelink.json
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\InventoryManagementSystem.Domin.dll
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\refint\InventoryManagementSystem.Domin.dll
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\InventoryManagementSystem.Domin.pdb
+C:\Users\shahi\source\repos\Inventory-Management-System---Clean-Architecture-Template\Inventory Management System\Domin\obj\Debug\net8.0\ref\InventoryManagementSystem.Domin.dll

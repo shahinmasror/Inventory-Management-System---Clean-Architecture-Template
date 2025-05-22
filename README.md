@@ -16,13 +16,62 @@ A modular and extensible Inventory Management System built with **ASP.NET Core**
 
 ---
 
-## 🗂️ Project Structure
-InventoryManagementSystem/
-├── src/
-│ ├── InventorySystem.Domain/ # Domain entities and core models
-│ ├── InventorySystem.Application/ # Interfaces and use case services
-│ ├── InventorySystem.Infrastructure/ # Database context and service implementations
-│ └── InventorySystem.API/ # Web API layer (controllers, authentication, Swagger)
-├── tests/
-│ └── InventorySystem.Tests/ # Unit tests using xUnit
-├── README.md
+
+---
+
+## 🧩 Features
+
+- Item, Supplier, Stock, and Sale Management
+- Secure API with JWT Authentication and Role-Based Access
+- Clean separation of concerns using Clean Architecture
+- Swagger UI for API exploration
+- Easy to extend and maintain
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/InventoryManagementSystem.git
+cd InventoryManagementSystem
+Setup the Database
+By default, it uses SQL Server or In-Memory (for dev/testing).
+
+Update your connection string in:
+
+bash
+Copy
+Edit
+src/InventorySystem.API/appsettings.json
+json
+Copy
+Edit
+"ConnectionStrings": {
+  "DefaultConnection": "Server=localhost;Database=InventoryDb;Trusted_Connection=True;"
+}
+3️⃣ Run the Application
+Use Visual Studio or CLI:
+
+bash
+Copy
+Edit
+dotnet build
+dotnet run --project src/InventorySystem.API
+Visit Swagger UI:
+
+bash
+Copy
+Edit
+https://localhost:5001/swagger
+✅ Default Roles & Authentication
+🔐 Admin and User roles are supported.
+
+JWT-based Authentication with token generation.
+
+🧪 Running Unit Tests
+bash
+Copy
+Edit
+dotnet test tests/InventorySystem.Tests
